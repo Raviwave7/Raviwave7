@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ravi 👋
 
-<!--
-**Raviwave7/Raviwave7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student
+💻 Exploring Software Development
+🌱 Currently learning programming, Git & GitHub
+🤖 Interested in AI and AI-powered development
+🎯 Goal: Build projects, improve my skills, and contribute to open source.
 
-Here are some ideas to get you started:
+### Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Revising programming fundamentals
+* Learning Git and GitHub
+* Exploring AI coding tools
+* Building my first projects
+
+### Tech I'm Exploring
+
+* C
+* Python
+* Git & GitHub
+* AI-assisted development
+
+---
+
+*Learning step by step. Building something better every day.* 🚀
